@@ -18,21 +18,21 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "HanzBOTZ" //namabot kalian
-global.ownername= "Hanz" //nama kalian
+global.botname = "Hanz -MD" //namabot kalian
+global.ownername= "HanzzX" //nama kalian
 global.myweb ="https://api-alphabot.herokuapp.com/" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.github = "https://github.com/HANZBOTZGZ" //bebas
-global.email = "wibusoft55@gmail.com" //bebas
-global.region = "Indonesia" //bebas
+global.github = "https://github.com/HanzXzz" //bebas
+global.email = "tzyhengker518@gmail.com" //bebas
+global.region = "Amerika" //bebas
 global.ownernomer = "6288215110787" // nomor wa kalian
-global.ownernomerr = "+6287830949637" //nmr wa kalian
+global.ownernomerr = "12898145876" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6288215110787"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© HanzBOTZ' //sticker wm ubah
-global.author = 'Di Buat Oleh Hanz' //sticker wm ganti nama kalian
+global.owner = ["6288215110787,12898145876"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© HanzZ' //sticker wm ubah
+global.author = 'Di Buat Oleh HanzzX' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -42,7 +42,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: '🤗Done, Oke Desu~',
+    sukses: '🤗Done, Oke Thx~',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
     owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
